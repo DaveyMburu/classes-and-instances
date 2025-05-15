@@ -7,9 +7,11 @@ Okay, you've learned how to declare classes and create instances in the last les
 
 ## Objectives
 
-In this lab you will: 
+In this lab I have: 
 
-* Create an instance of a class
+* Created an instance of a class
+
+# Check the index.ipynb file to see my workings
 
 ## Classes
 
